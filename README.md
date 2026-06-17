@@ -1,78 +1,47 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">I'm Malik Şükürov</h3>
-
 <p align="center">
-Junior Frontend Developer from Azerbaijan 🇦🇿
+Frontend Developer from Azerbaijan 🇦🇿
 </p>
 
 <p align="center">
-Currently learning React.js, Tailwind CSS and Next.js.
-I enjoy building modern, responsive and interactive web applications.
+Learning and building projects with modern web technologies.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **React.js, Tailwind CSS and Next.js**
-
-- 💻 Building projects to improve my frontend skills
-
-- 🔥 Interested in modern UI/UX development
-
-- 📚 Improving JavaScript every day
-
-- 🎯 Goal: Become a strong Frontend Developer
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind,nextjs,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
+<br>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SENIN_USERNAME&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=SENIN_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
 
 ---
 
-## 📌 Current Focus
+## ⚡ Technologies
 
-- ⚛️ React.js
+<p align="center">
 
-- 🎨 Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nextjs,git,github,vscode" />
 
-- ▲ Next.js
-
-- 🔄 State Management
-
-- 🌐 API Integration
-
-- 🛣️ Routing
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📊 Statistics
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/SENIN_USERNAME">
-GitHub
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SENIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SENIN_USERNAME&theme=tokyonight&hide_border=true" />
 
 </p>
