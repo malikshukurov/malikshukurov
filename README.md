@@ -14,7 +14,7 @@ Learning and building projects with modern web technologies.
 <img src="https://img.shields.io/github/followers/malikshukurov?label=Follow&style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/shukurov">
+<a href="https://www.linkedin.com/in/shukurovmalik">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
