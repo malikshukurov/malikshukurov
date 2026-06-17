@@ -1,25 +1,78 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Malik%20Shukurov&fontSize=45&fontColor=ffffff"/>
-# 👋 Salam, mən Malik
+<h1 align="center">Hi there 👋</h1>
 
-💻 Frontend Developer
+<h3 align="center">I'm Malik Şükürov</h3>
 
-🚀 Hazırda öyrənirəm:
+<p align="center">
+Junior Frontend Developer from Azerbaijan 🇦🇿
+</p>
 
-- React.js
-- Next.js
-- Tailwind CSS
+<p align="center">
+Currently learning React.js, Tailwind CSS and Next.js.
+I enjoy building modern, responsive and interactive web applications.
+</p>
 
-📚 Məqsədim:
+---
 
-Müasir və sürətli web tətbiqlər hazırlamaq.
+## 🚀 About Me
 
-## 🛠️ Texnologiyalar
+- 🌱 Currently learning **React.js, Tailwind CSS and Next.js**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode"/>
+- 💻 Building projects to improve my frontend skills
 
-## 🚀 Layihələrim
+- 🔥 Interested in modern UI/UX development
 
-- 📖 Blog App
-- 🎬 Movie App
-- 🛒 E-commerce App
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Always+Learning)](https://git.io/typing-svg)
+- 📚 Improving JavaScript every day
+
+- 🎯 Goal: Become a strong Frontend Developer
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind,nextjs,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SENIN_USERNAME&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📌 Current Focus
+
+- ⚛️ React.js
+
+- 🎨 Tailwind CSS
+
+- ▲ Next.js
+
+- 🔄 State Management
+
+- 🌐 API Integration
+
+- 🛣️ Routing
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/SENIN_USERNAME">
+GitHub
+</a>
+
+</p>
