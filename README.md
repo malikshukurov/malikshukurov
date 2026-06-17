@@ -12,7 +12,7 @@ Learning and building projects with modern web technologies.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SENIN_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=malikshukurov&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
 
@@ -42,6 +42,6 @@ Learning and building projects with modern web technologies.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SENIN_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=malikshukurov&theme=tokyonight&hide_border=true" />
 
 </p>
