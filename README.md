@@ -44,6 +44,6 @@ Learning and building projects with modern web technologies.
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=malikshukurov&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshukurov&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshukurov&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
