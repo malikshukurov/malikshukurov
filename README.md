@@ -35,10 +35,3 @@ Learning and building projects with modern web technologies.
 <img width="420" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nextjs,typescript,git,github" />
 
 </p>
-
----
-
-### 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikshukurov&theme=tokyo-night&hide_border=true" />
-</p>
